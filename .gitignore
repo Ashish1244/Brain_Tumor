@@ -1,0 +1,21 @@
+# Virtual Environment
+ENV/
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Keras / Model weight files larger than 100MB
+
+# Dataset folders (if large)
+train/
+valid/
+test/
+
+# OS files
+.DS_Store
+ENV/
+venv/
